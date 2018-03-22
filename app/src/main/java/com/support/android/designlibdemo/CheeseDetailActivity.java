@@ -47,7 +47,7 @@ public class CheeseDetailActivity extends AppCompatActivity {
 
         CollapsingToolbarLayout collapsingToolbar =
                 (CollapsingToolbarLayout) findViewById(R.id.collapsing_toolbar);
-        collapsingToolbar.setTitle(cheeseName);
+        collapsingToolbar.setTitle(cheeseName); // 设置Toobar 的标题
 
         loadBackdrop();
     }
