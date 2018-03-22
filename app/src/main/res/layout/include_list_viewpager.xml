@@ -50,6 +50,8 @@
                 app:layout_collapseMode="pin"
                 app:layout_scrollFlags="scroll|enterAlways|snap"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+
         </android.support.design.widget.CollapsingToolbarLayout>
 
         <android.support.design.widget.TabLayout
