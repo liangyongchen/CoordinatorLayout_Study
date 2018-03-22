@@ -2,7 +2,7 @@
 
 ==================================
 
-![alt text](https://raw.githubusercontent.com/chrisbanes/cheesesquare/master/art/yue.gif)
+- ![](art/yue.gif)
 
 Cheesesquare Sample
 ===================================
